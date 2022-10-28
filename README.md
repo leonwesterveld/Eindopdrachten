@@ -11,4 +11,4 @@ Je staat voor een huis\
 Rechts van je is een steeg\
 Waar je iets van een radio hoort\
 \
-je doel is om de monsters te vermoorden en weer naar huis te komen\
+je doel is om de monsters te vermoorden en weer naar huis te komen
